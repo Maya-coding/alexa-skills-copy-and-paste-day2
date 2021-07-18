@@ -1,4 +1,4 @@
-/ alexa-cookbook.js
+// alexa-cookbook.js
 /* eslint-disable  no-console */
 // *eslint : extend airbnb
 
